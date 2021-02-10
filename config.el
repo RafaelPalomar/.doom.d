@@ -73,3 +73,8 @@
 
 (setq bibtex-completion-pdf-open-function 'org-open-file)
 (key-chord-define-global "kk" 'org-ref-cite-hydra/body)
+
+(setq imagemagick-enabled-types t)
+(imagemagick-register-types)
+(add-to-list 'image-file-name-extensions "eps")
+(setq org-image-actual-width 1400)

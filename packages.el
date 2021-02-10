@@ -53,3 +53,5 @@
 (package! forge)
 (package! org-roam)
 (package! org-ref)
+(package! plantuml-mode)
+(package! flycheck-plantuml)
