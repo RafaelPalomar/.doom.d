@@ -4,12 +4,12 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(ansi-color-names-vector
-   ["#21242b" "#ff6c6b" "#98be65" "#ECBE7B" "#51afef" "#c678dd" "#46D9FF" "#bbc2cf"])
+   ["#262829" "#ff6c6b" "#98be65" "#ECBE7B" "#51afef" "#c678dd" "#46D9FF" "#bbc2cf"])
  '(bibtex-dialect (quote BibTeX))
  '(column-number-mode t)
  '(custom-safe-themes
    (quote
-    ("f2927d7d87e8207fa9a0a003c0f222d45c948845de162c885bf6ad2a255babfd" default)))
+    ("e6ff132edb1bfa0645e2ba032c44ce94a3bd3c15e3929cdf6c049802cf059a2a" "990e24b406787568c592db2b853aa65ecc2dcd08146c0d22293259d400174e37" "4bca89c1004e24981c840d3a32755bf859a6910c65b829d9441814000cf6c3d0" "76bfa9318742342233d8b0b42e824130b3a50dcc732866ff8e47366aed69de11" "e3c64e88fec56f86b49dcdc5a831e96782baf14b09397d4057156b17062a8848" "4a8d4375d90a7051115db94ed40e9abb2c0766e80e228ecad60e06b3b397acab" "c4bdbbd52c8e07112d1bfd00fee22bf0f25e727e95623ecb20c4fa098b74c1bd" "f2927d7d87e8207fa9a0a003c0f222d45c948845de162c885bf6ad2a255babfd" default)))
  '(fci-rule-color "#5B6268")
  '(font-use-system-font t)
  '(imagemagick-enabled-types

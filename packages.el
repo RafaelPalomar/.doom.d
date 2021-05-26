@@ -49,9 +49,11 @@
 ;; ...Or *all* packages (NOT RECOMMENDED; will likely break things)
 ;(unpin! t)
 
-(package! rg)
+(package! flycheck-plantuml)
 (package! forge)
+(package! org-noter)
 (package! org-roam)
 (package! org-ref)
+(package! ox-reveal)
 (package! plantuml-mode)
-(package! flycheck-plantuml)
+(package! rg)
